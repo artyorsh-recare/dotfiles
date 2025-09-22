@@ -12,6 +12,10 @@ cask 'android-studio'
 brew 'cocoapods'
 mas 'Xcode', id: 497799835
 
+cask 'expo-orbit'
+
+# *
+
 cask 'zed'
 cask 'google-chrome'
-cask 'minisim'
+cask 'docker-desktop'
