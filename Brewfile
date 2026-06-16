@@ -13,8 +13,8 @@ brew 'pinentry-mac'
 tap 'jorgelbg/tap'
 brew 'pinentry-touchid'
 
-cask 'chatgpt'
+cask 'claude'
 
-mas 'AdGuard for Safari', id: 1440147259
-mas 'Bitwarden', id: 1352778147
-mas 'WireGuard', id: 1451685025
+# mas 'AdGuard for Safari', id: 1440147259
+# mas 'Bitwarden', id: 1352778147
+# mas 'WireGuard', id: 1451685025
