@@ -10,14 +10,13 @@ cask 'zulu@17'
 cask 'android-studio'
 
 brew 'cocoapods'
-mas 'Xcode', id: 497799835
+# mas 'Xcode', id: 497799835
 
 cask 'expo-orbit'
 
 # *
 
-cask 'zed'
+cask 'cursor'
 cask 'google-chrome'
 cask 'docker-desktop'
-cask 'ansible'
 cask 'figma'
