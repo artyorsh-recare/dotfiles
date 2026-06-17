@@ -14,6 +14,7 @@ tap 'jorgelbg/tap'
 brew 'pinentry-touchid'
 
 cask 'claude'
+cask 'notion'
 
 # mas 'AdGuard for Safari', id: 1440147259
 # mas 'Bitwarden', id: 1352778147
