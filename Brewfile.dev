@@ -17,6 +17,5 @@ cask 'expo-orbit'
 # *
 
 cask 'cursor'
-cask 'google-chrome'
 cask 'docker-desktop'
 cask 'figma'
