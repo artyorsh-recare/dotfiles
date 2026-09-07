@@ -12,7 +12,12 @@ cask 'android-studio'
 brew 'cocoapods'
 # mas 'Xcode', id: 497799835
 
+cask 'eas-cli'
 cask 'expo-orbit'
+
+# https://docs.maestro.dev/maestro-cli/how-to-install-maestro-cli#installation
+tap 'mobile-dev-inc/tap'
+brew 'mobile-dev-inc/tap/maestro'
 
 # *
 

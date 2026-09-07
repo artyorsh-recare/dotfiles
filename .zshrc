@@ -30,3 +30,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # https://github.com/nvm-sh/nvm?tab=readme-ov-file#bash-completion
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+# https://docs.maestro.dev/maestro-cli/environment-variables
+export MAESTRO_CLI_NO_ANALYTICS=1
